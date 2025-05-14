@@ -172,3 +172,5 @@ dashboard/.firebase
 dashboard/.eslintcache
 
 dashboard/build
+
+.gitignore
